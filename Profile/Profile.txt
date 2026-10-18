@@ -4,3 +4,25 @@ Country: Nigeria
 Email: jasonjeremiah201022@gmail.com or jeremiahjason026@gmail.com
 Profile picture: check: Profile/Profile_images
 
+1. Header & Contact Section
+
+Jason Nwezeh-Onuh Jeremiah
+Software Developer | Cross-Platform & Full-Stack Specialist
+• Email: jasonjeremiah201022@gmail.com
+• Phone / WhatsApp: +234 707 553 6341
+• Location: Kaduna, Nigeria
+• Availability: Available for Freelance & Contracts
+About Me / Hook:
+Versatile Software Developer specializing in building high-performance cross-platform mobile, web, and desktop applications using Flutter and Dart. Founder and CEO of N.O Group, skilled in taking complex software projects from conceptual UI/UX design through to production deployment and native desktop packaging.
+
+2. Core Skills Section
+
+• Languages & Frameworks: Dart, Flutter (iOS, Android, Windows Desktop, Web), Python, HTML/CSS
+• Backend & Cloud Architecture: Supabase (Relational PostgreSQL, Auth, Realtime Sync), MongoDB Atlas, Cloudflare R2, Cloudinary
+• Desktop & Document Automation: Windows Desktop Development, Native MSIX Packaging, Dynamic Client/Server PDF Generation
+• Developer Tools & Platforms: Git, GitHub, GitHub Pages, VS Code, Cursor, Termux, Google Colab, Cloud Shell
+
+. Call to Action / Footer
+
+Have a project in mind? Let's discuss how I can help bring your ideas to life. Feel free to reach out via email at jasonjeremiah201022@gmail.com or call/message me on WhatsApp at +234 707 553 6341.
+
